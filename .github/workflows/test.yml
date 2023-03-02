@@ -1,4 +1,4 @@
-name: Acciojob score evaluation
+ name: Acciojob score evaluation
 on: push
 jobs:
   Explore-GitHub-Actions:
